@@ -6,7 +6,7 @@ import styles from "./styles";
 
 const launchscreenBg = require("../../../assets/launchscreen-bg.png");
 const launchscreenLogo = require("../../../assets/logo-kitchen-sink.png");
-
+//Initial Commit Test
 class Home extends Component {
   render() {
     return (
